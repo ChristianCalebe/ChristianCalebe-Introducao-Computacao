@@ -11,7 +11,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 ## Unidade 1
 
 - **Atividade da Unidade 1**
-  [Acessar] (https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/ee89714c67379e64d2407192ebb8edcadacd3cfa/UNIDADE%201%20)
+  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/ee89714c67379e64d2407192ebb8edcadacd3cfa/UNIDADE%201%20)
 
 ---
 
