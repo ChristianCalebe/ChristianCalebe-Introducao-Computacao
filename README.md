@@ -17,14 +17,8 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ## Unidade 2
 
-- **Dispositivos de Entrada e Saída**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/INTRODU%C3%87%C3%83O%20%C3%80%20COMPUTA%C3%87%C3%83O%20unidade%202.pdf)
-
-- **Sistema Operacional Windows**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/README.MD/%F0%9F%96%A5%EF%B8%8F%20Windows%20%E2%80%94%20Sistema%20Operacional)
-
-- **Sistemas Operacionais**
-  [Acessar](https://github.com/adrianolis/Seminario-sobre-SO/blob/main/README.md)
+- **Atividade da Unidade 2**
+  [Acessar]
 
 ---
 
