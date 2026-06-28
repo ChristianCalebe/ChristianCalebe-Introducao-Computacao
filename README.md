@@ -18,7 +18,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 ## Unidade 2
 
 - **Atividade da Unidade 2**
-  [Acessar]
+  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/d5419b9c56a4a36d384fe2256262d38587a59fb4/UNIDADE%202%20)
 
 ---
 
