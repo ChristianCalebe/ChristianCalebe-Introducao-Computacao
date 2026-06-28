@@ -24,11 +24,8 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ## Unidade 3
 
-- **Projeto – Aplicativo de Viagem**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/aula%2012/projeto%20viagem%20app%20viagem/read.md)
-
-- **Projeto – Intercâmbio**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/interc%C3%A2mbiopdf.pdf)
+- **Atividade da Unidade 3**
+  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/1bc940dc03839f2ed5eb6a9b8fa61252895ce7d2/UNIDADE%203%20)
 
 ---
 
