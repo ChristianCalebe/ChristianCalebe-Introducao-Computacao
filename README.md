@@ -51,7 +51,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 ## Unidade 5
 
 - **Avaliação 3**
-  [Acessar](https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/Unidade%205/Avalia%C3%A7%C3%A3o%203)
+  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/4638bbd054bf42db0879a7bbea1262abc976438f/UNIDADE%205%20)
 
 ---
 
