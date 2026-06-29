@@ -58,7 +58,7 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 ## Unidade 6
 
 - **Conteúdo da Unidade 6**
-  [Acessar](https://github.com/ericasilva9/Introducao-Computacao-Hardware/tree/main/Unidade%206)
+  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/blob/56ce7dd813225967436284fb41ab70d9ccb461cd/UNIDADE%206%20/README.MD)
 
 ---
 
