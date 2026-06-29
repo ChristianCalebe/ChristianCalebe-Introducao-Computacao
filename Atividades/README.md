@@ -2,9 +2,7 @@
 
 **ALUNO:** Christian Calebe Ferreira Campos Silva
 
-**Prof.ª:** Kadidja Valéria
-
-Repositório com os materiais, atividades e projetos desenvolvidos durante a disciplina de Introdução à Computação.
+**Professora:** Kadidja Valéria
 
 ---
 
@@ -29,25 +27,21 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ---
 
-## Unidade 4
+# Unidade 4
 
 - **Atividade da Unidade 4**
   [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/bc5af5ecfc1aeeb636c521abae85a8a91693a4aa/UNIDADE%204%20/unidade4)
 
 ---
 
-## Unidade 5
+# Unidade 5
 
 - **Avaliação 3**
   [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/4638bbd054bf42db0879a7bbea1262abc976438f/UNIDADE%205%20)
 
 ---
 
-## Unidade 6
+# Unidade 6
 
 - **Conteúdo da Unidade 6**
   [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/blob/56ce7dd813225967436284fb41ab70d9ccb461cd/UNIDADE%206%20/README.MD)
-
----
-
- *Repositório para entrega de atividades da disciplina de Introdução à Computação.*
