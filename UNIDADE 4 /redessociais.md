@@ -1,17 +1,6 @@
 # Trabalho Prático: Conceitos, Atributos e Ameaças à Segurança da Informação
 
-**Disciplina:** [Nome da Disciplina]  
 **Aula:** 14 – Segurança da Informação  
-**Grupo:** [Insira o nome dos integrantes aqui]  
-
-## 📌 Descrição do Repositório
-Este repositório contém a atividade prática avaliativa com foco no levantamento teórico e prático dos pilares da Segurança da Informação (SI), análise de vetores de ameaça e o estudo de caso do ataque cibernético global **WannaCry (2017)**.
-
-## 📂 Estrutura de Arquivos
-
-* [`conceitos.md`](./conceitos.md): Definição formal de SI segundo a norma ISO/IEC 27000:2018 e detalhamento dos atributos principais (Confidencialidade, Integridade, Disponibilidade e Privacidade).
-* [`ameacas.md`](./ameacas.md): Mapeamento de ameaças digitais, diferenciação entre vulnerabilidades técnicas e humanas, e matriz de impactos corporativos.
-* [`estudo_de_caso.md`](./estudo_de_caso.md): **Opção A** – Análise do ataque de Ransomware *WannaCry*, explorando o exploit *EternalBlue*, impactos gerados e medidas de mitigação.
 
   # 1. Conceitos Fundamentais da Segurança da Informação
 
@@ -115,8 +104,8 @@ A ferramenta utilizada para explorar essa falha chamava-se **EternalBlue** — u
    * Com **1** das cópias totalmente *offline* (imune a malwares que varrem a rede).
 4. **Segmentação de Rede:** Criação de VLANs estanques para impedir que a contaminação de um terminal de secretaria alcance, por exemplo, o servidor central de um hospital.
 
-   Proposta de Texto para a "Reflexão Individual"
-(O texto abaixo possui exatamente a estrutura argumentativa e densidade de 1 página formal — cerca de 450 palavras. Você pode reescrevê-lo com suas próprias palavras para imprimir sua identidade).
+
+### Proposta de Texto para a "Reflexão Individual"
 
 Título: O Fator Humano: Por que a mente é a única vulnerabilidade que não aceita patch?
 
