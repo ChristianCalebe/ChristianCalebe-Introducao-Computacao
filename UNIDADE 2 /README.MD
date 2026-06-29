@@ -2,7 +2,7 @@
 
 [windows_slides.pptx](https://github.com/user-attachments/files/29445615/windows_slides.pptx)
 
-##resumo##
+## resumo
 ## Ecossistema e Dispositivos (Windows)
 
 Onde o Windows domina?
