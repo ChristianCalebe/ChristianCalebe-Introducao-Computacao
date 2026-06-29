@@ -7,7 +7,6 @@
 | Integrantes | Erica Silva, Ana Beatriz Ramos, Christian Caleb  |
 
 ---
----
 
 ## 1. Linha do Tempo
 
