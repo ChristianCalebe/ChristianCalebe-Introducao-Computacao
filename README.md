@@ -31,20 +31,8 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ## Unidade 4
 
-- **Material da Unidade**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/Captura%20de%20tela%202026-05-04%20153538.png)
-
-- **Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/aula%2010%20e-Computadores-Hist-rico-Elementos-e-Classifica-o/read.md)
-
-- **Aula 11 – Topologias, Dispositivos e Meios de Transmissão**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/%23%20-Topologias-Dispositivos-e-Meios-de-Transmiss-o/read.md)
-
-- **Aula 12 – Projeto Aplicativo de Viagem**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/aula%2012/projeto%20viagem%20app%20viagem/read.md)
-
-- **Aula 14 – Segurança da Informação: Conceitos, Atributos e Ameaças**
-  [Acessar](https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/aula%2014%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%3A%20Conceitos%2C%20Atributos%20e%20Amea%C3%A7as/read.md)
+- **Atividade da Unidade 4**
+  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/bc5af5ecfc1aeeb636c521abae85a8a91693a4aa/UNIDADE%204%20/unidade4)
 
 ---
 
