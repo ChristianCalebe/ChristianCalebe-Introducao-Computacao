@@ -1,3 +1,5 @@
+Aula 17 _ Fórum: Governança e Gestão de TI: Frameworks, Estratégia e Ética
+
 ### Tema: O Papel Estratégico e Ético dos Frameworks na Governança de TI
 
 **Desenvolvimento:** 
