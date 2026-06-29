@@ -1,7 +1,5 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## Nome(s) dos estudante(s): Erica Pereira Da Silva e matrícula(s): 22611949
-
 ## Identificação
 
 | Aula        | 10                               |
