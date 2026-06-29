@@ -25,4 +25,15 @@ Os critérios técnicos que fundamentam esta recomendação incluem:
 * **Segregação de Incidentes:** Caso ocorra uma rutura de cabo ou falha de hardware num equipamento específico, o impacto fica estritamente restrito àquele ponto. O restante da rede permanece ativo, diferenciando-se crucialmente dos modelos em barramento ou anel.
 * **Escalabilidade Dinâmica (Plug-and-Play):** A introdução ou remoção de novos componentes é executada de forma independente. Não há interrupção do sinal dos demais utilizadores ao ligar um cabo ou associar um aparelho ao Wi-Fi.
 * **Sustentabilidade Financeira:** A infraestrutura central necessária é altamente acessível. Os routers de consumo atual reúnem funções de modem, switch e ponto de acesso numa única peça de custo moderado.
-* **Otimização de Desempenho Local:** Dev
+* **Otimização de Desempenho Local:** Devido aos canais de comunicação exclusivos criados entre a central e os dispositivos, mitiga-se o problema de colisões físicas de dados.
+* **Nativa com Padrões Atuais:** Os protocolos dominantes do mercado — como a cablagem Ethernet (Cat6) e as redes sem fios de última geração (Wi-Fi 6) — são concebidos intrinsecamente para operar sob a lógica concêntrica da estrela.
+
+## 3. Mapeamento do Cenário Prático
+
+Num ambiente de uso real moderno, a materialização desta topologia ocorre através da receção do sinal de internet por fibra ótica de alta velocidade (padrão FTTH) que alimenta diretamente o router central. Este núcleo inteligente atua como o distribuidor concêntrico da residência.
+
+A distribuição é dividida estrategicamente em dois eixos secundários a partir da estrela: o segmento sem fios (frequências de 5 GHz ou 6 GHz do Wi-Fi) providencia mobilidade fluida a telemóveis e portáteis; em paralelo, portas cabladas Ethernet de alta capacidade ligam diretamente os equipamentos que exigem estabilidade e velocidade contínua, como computadores de trabalho e smart TVs.
+
+## Conclusão
+
+A arquitetura em estrela representa a melhor convergência entre segurança operacional, facilidade de expansão e custo de implementação para o cenário residencial. Enquanto alternativas como malhas completas ou circuitos em anel encontram o seu propósito em infraestruturas industriais e centros de dados de missão crítica, a simplicidade resiliente da estrela consolida-a como o padrão soberano para o utilizador doméstico final.
