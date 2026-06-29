@@ -39,7 +39,9 @@
 **Avaliação 3**
 (https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/tree/4638bbd054bf42db0879a7bbea1262abc976438f/UNIDADE%205%20)
 
+--- 
+
 # Unidade 6
 
 **Conteúdo da Unidade 6**
-  [Acessar](https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/blob/56ce7dd813225967436284fb41ab70d9ccb461cd/UNIDADE%206%20/README.MD)
+(https://github.com/ChristianCalebe/ChristianCalebe-Introducao-Computacao/blob/56ce7dd813225967436284fb41ab70d9ccb461cd/UNIDADE%206%20/README.MD)
